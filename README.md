@@ -1,6 +1,7 @@
 # Linear Algebra Reading Group
 
 
+
 ## Plan
 
 Coding oriented
@@ -18,11 +19,13 @@ Coding:
 Use Python Notebook for code examples and share on GitHub
 
 
-Deep Learning:
+### Deep Learning:
 
 http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015
 
 https://arxiv.org/abs/1511.07916
+
+See also Deep Learning Udacity course
 
 
 
